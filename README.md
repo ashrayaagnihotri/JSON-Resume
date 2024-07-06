@@ -1,0 +1,1 @@
+This repository contains my resume in JSON format. The resume includes detailed information about my education, relevant coursework, experience, projects, technical skills, leadership and extracurricular activities, as well as certificates earned.
