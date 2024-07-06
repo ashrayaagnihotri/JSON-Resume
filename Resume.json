@@ -1,0 +1,136 @@
+{
+  "name": "Ashraya Agnihotri",
+  "contact": {
+    "phone": "+91 6393940444",
+    "email": "ashrayaagnihotri.10@gmail.com"
+  },
+  "education": [
+    {
+      "institution": "SRM Institute of Science and Technology, Kattankulathur",
+      "degree": "Bachelor of Technology, CSE w/s Software Engineering",
+      "duration": "2021-2025",
+      "cgpa": 8.9
+    },
+    {
+      "institution": "City Montessori School, Lucknow",
+      "degree": "XII (ISC)",
+      "percentage": 92.6,
+      "duration": "2020-2021"
+    }
+  ],
+  "relevant_coursework": [
+    "Data Structures",
+    "Software Methodology"
+  ],
+  "experience": [
+    {
+      "company": "Oasis Infobyte",
+      "position": "Web Development Intern",
+      "duration": "Nov 2023– Dec 2023",
+      "highlights": [
+        "Created a landing page for a socializing application.",
+        "Broadened understanding and experience in frontend development.",
+        "Explored ways to visualize and send daily reports using HTML, Javascript, and CSS."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Weather App | Frontend",
+      "description": "Made using Vanilla JavaScript, integrating OpenWeatherMap API for real-time weather data.",
+      "date": "October 2023",
+      "technologies": [
+        "HTML/CSS",
+        "Vanilla JavaScript",
+        "OpenWeatherMap API"
+      ]
+    },
+    {
+      "name": "Logement- Hotel Management App | Full-Stack",
+      "description": "Developed a hotel management website similar to Airbnb, using the MERN stack.",
+      "date": "November 2023",
+      "technologies": [
+        "MERN stack"
+      ]
+    },
+    {
+      "name": "Sorting Visualizer | DSA",
+      "description": "Visualized 6 sorting algorithms using a C++ program with SDL2 library.",
+      "date": "January 2024",
+      "technologies": [
+        "C++",
+        "SDL2"
+      ]
+    },
+    {
+      "name": "Sales Insights Analysis | Data Analysis",
+      "description": "Developed Sales Insight Analysis using Power BI for dynamic visualizations and real-time insights.",
+      "date": "February 2024",
+      "technologies": [
+        "Power BI"
+      ]
+    }
+  ],
+  "technical_skills": {
+    "languages": [
+      "C",
+      "C++",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "developer_tools": [
+      "VS Code",
+      "Git",
+      "Github",
+      "Jupyter Notebook",
+      "Microsoft Excel",
+      "Power BI",
+      "Tableau"
+    ],
+    "frameworks_libraries": [
+      "Node.js",
+      "Express.js",
+      "Bootstrap",
+      "TailwindCSS"
+    ],
+    "databases": [
+      "MySQL",
+      "MongoDB"
+    ]
+  },
+  "leadership_extracurricular": [
+    {
+      "organization": "Content Team, Directorate of Student Affairs",
+      "position": "Team Head",
+      "duration": "Oct 2022-May 2023",
+      "highlights": [
+        "Led a team of 10 members in creating, editing, and optimizing content."
+      ]
+    },
+    {
+      "organization": "SRM MUNSociety",
+      "position": "Organising Committee Member",
+      "duration": "May 2022-Feb 2023",
+      "highlights": [
+        "Collaborated in organizing committee sessions and MUN conferences."
+      ]
+    },
+    {
+      "organization": "Student Copter Research Organization",
+      "position": "Content Writer",
+      "duration": "Dec 2021-Aug 2022",
+      "highlights": [
+        "Researched and produced technical articles, reports, and documents."
+      ]
+    }
+  ],
+  "certificates": [
+    "Cloud Infrastructure Certified Foundations Associate: Oracle",
+    "Operating Systems Basics: Cisco",
+    "Networking Basics: Cisco",
+    "Cloud Computing: IIT Kharagpur",
+    "Data Analytics: Google",
+    "Power BI Data Analyst: Microsoft"
+  ]
+}
